@@ -342,9 +342,7 @@ Give a ⭐️ if this project helped you!
 [![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/voice-ai-therapist.svg?style=social&label=Star)](https://github.com/YOUR-USERNAME/voice-ai-therapist)
 [![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/voice-ai-therapist.svg?style=social&label=Fork)](https://github.com/YOUR-USERNAME/voice-ai-therapist/fork)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
