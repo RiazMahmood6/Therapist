@@ -7,23 +7,6 @@
 
 A sophisticated Flask-based web application that provides AI-powered therapeutic conversations with advanced voice capabilities, multiple personality modes, and comprehensive safety features.
 
-## 📋 Table of Contents
-
-- [Demo](#-demo)
-- [Features](#-features)
-- [Technology Stack](#-technology-stack)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Usage Guide](#-usage-guide)
-- [Configuration](#-configuration)
-- [Project Structure](#-project-structure)
-- [API Endpoints](#-api-endpoints)
-- [Security](#-security-considerations)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 📸 Demo
 
 
