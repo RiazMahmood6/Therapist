@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/flask-v2.0+-green.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A sophisticated Flask-based web application that provides AI-powered therapeutic conversations with advanced voice capabilities, multiple personality modes, and comprehensive safety features.
 
