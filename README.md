@@ -26,9 +26,11 @@ A sophisticated Flask-based web application that provides AI-powered therapeutic
 
 ## 📸 Demo
 
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1RsYCgC7ASsGDmkLxeiLDwDaxs0U1Y1-u/view?usp=sharing))
 
-![Main Interface]([path/to/screenshot1.png](https://drive.google.com/file/d/1RsYCgC7ASsGDmkLxeiLDwDaxs0U1Y1-u/view?usp=drive_link))
-*Main chat interface with voice controls*
+*Click the image above to watch the demo video*
+
+**Or view directly:** [Watch Demo Video](https://drive.google.com/file/d/1RsYCgC7ASsGDmkLxeiLDwDaxs0U1Y1-u/view?usp=sharing)
 
 
 ## ✨ Features
