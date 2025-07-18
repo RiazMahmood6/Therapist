@@ -26,13 +26,10 @@ A sophisticated Flask-based web application that provides AI-powered therapeutic
 
 ## 📸 Demo
 
-> **Note**: Add screenshots of your application here
 
-![Main Interface](path/to/screenshot1.png)
+![Main Interface]([path/to/screenshot1.png](https://drive.google.com/file/d/1RsYCgC7ASsGDmkLxeiLDwDaxs0U1Y1-u/view?usp=drive_link))
 *Main chat interface with voice controls*
 
-![Voice Recording](path/to/screenshot2.png) 
-*Voice recording in action*
 
 ## ✨ Features
 
